@@ -1,12 +1,10 @@
-
 {
-  "name": "Galego Usinagem",
+  "name": "Galego Usinagem App",
   "short_name": "Usinagem",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",
